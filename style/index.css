@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Poppins:wght@300;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.title{
+    background: -webkit-linear-gradient(#FF0021, #AA011A);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 30px;
+    font-family: "Oswald";
+    font-size: 50px;
+}
+.navegacion{
+    justify-content: space-around;
+    display: flex;    
+}
+
+.navegacion p{
+    color: white; 
+    font-size: 17px;
+    font-family: "poppins";  
+     
+}
+.principal{
+    overflow: hidden;
+    position: relative;
+}
+.principal video{
+    width: 100%;
+}
+.principal h3 span{
+    color: white;
+    position: absolute;
+    top: 90%;    
+    width: 100%;
+    margin: 0 5%;
+}
+.btnsPersonalizacion{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+.btnPersonalizacion{
+    padding: 3px;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 17px;
+}
+.btnReproducir{
+    padding: 0 20px;
+    font-size: 17px;
+    align-items:center ;
+}
+.btnReproducir img{
+    position: relative;
+    
+}
+.primeraSeccion{
+    margin: 20px;
+}
+
+.populares{
+    margin-top: 5px;
+    display: flex;
+    overflow: auto;
+    gap: 15px;
+    max-height: 300px;
+}
+.populares img{
+    width: 175px;
+}
+
+.populares::-webkit-scrollbar{
+    width: 0;
+}
+
+.segundaSeccion{
+    margin: 20px;
+}
+.seriesAnime{
+    margin-top: 5px;
+    display: flex;
+    overflow: auto;
+    gap: 15px;
+}
+.seriesAnime::-webkit-scrollbar{
+    width: 0;
+}
+.terceraSeccion{
+    margin: 20px;
+}
+.seriesCrimenes{
+    margin-top: 5px;
+    display: flex;
+    overflow: auto;
+    gap: 15px;
+}
+.seriesCrimenes::-webkit-scrollbar{
+    width: 0;
+}
+
+.btnsAplicacion{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.btnPersonalizacion{
+    color: white;
+}

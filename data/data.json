@@ -1,0 +1,158 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "name": "Matrix - Recargado",
+            "duracion": "138 minutos",
+            "año": 2003,
+            "resumen": "250.000 centinelas del Ejército de las Máquinas se dirigen hacia la ciudad oculta de Sión, último enclave de supervivencia de los humanos. Morfeo, Trinity y Neo disponen de 72 horas hasta que las máquinas lleguen al santuario humano. Las hermanas Lilly y Lana Wachowski alcanzarán una repercusión inesperada.",
+            "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
+            "imagen": "https://www.ecartelera.com/carteles/5200/5270/001_m.jpg",
+            "direccion": "Hermanas Wachowski",
+            "categoria": "Ciencia Ficcion"
+        },
+        {
+            "id": 2,
+            "name": "Bob Esponja: al rescate",
+            "duracion": "83 minutos",
+            "año": 2020,
+            "resumen": "Bob Esponja y Patricio se embarcan en una aventura épica. Durante una misión heroica e hilarante para salvar a la mascota de Bob, el caracol Gary, descubren que nada es más fuerte que el poder de la amistad.",
+            "elenco": "Tom Kenny, Antonio Raul Corbo, Bill Fagerbakke, Jack Gore, Rodger Bumpass, Jason Maybaum, Clancy Brown",
+            "imagen": "https://es.web.img2.acsta.net/c_310_420/pictures/19/11/13/16/57/1990423.jpg",
+            "direccion": "Tim Hill",
+            "categoria": "Infantil"
+        },
+        {
+            "id": 3,
+            "name": "El Sorprendente Hombre-Araña",
+            "duracion": "136 minutos",
+            "año": 2012,
+            "resumen": "Como la mayoría de los adolescentes de su edad, Peter está intentando descubrir quién es y cómo ha llegado a ser lo que es. En su viaje para atar los cabos de su pasado, descubre un secreto familiar que finalmente dará forma a su destino como Spiderman.",
+            "elenco": "Andrew Garfield, Emma Stone, Rhys Ifans, Denis Leary, Campbell Scott, Irrfan Khan, Martin Sheen, Sally Field, Annie Parisse",
+            "imagen": "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/4417/4417_173x256.jpg",
+            "direccion": "Marc Webb",
+            "categoria": "Super Heroes"
+        },
+        {
+            "id": 4,
+            "name": "Como entrenar a tu dragon",
+            "duracion": "98 minutos",
+            "año": 2010,
+            "resumen": "Hipo, un vikingo adolescente, comienza las clases de entrenamiento con dragones, y ve por fin una oportunidad para demostrar que es capaz de convertirse en guerrero, cuando hace amistad con un dragón herido.",
+            "elenco": "Jay Baruchel, Gerard Butler, America Ferrera, Kristen Wiig, Jonah Hill",
+            "imagen": "http://www.kubelika.com/images/carteles/1000/1093-1-como-entrenar-a-tu-dragon-300.jpg",
+            "direccion": "Chris Sanders",
+            "categoria":"Infantil"
+        },
+        {
+            "id": 5,
+            "name": "John Wick 3",
+            "duracion": "131 minutos",
+            "año": 2019,
+            "resumen": "John Wick regresa de nuevo pero con una recompensa sobre su cabeza que persigue unos mercenarios. Tras asesinar a uno de los miembros de su gremio, Wick es expulsado y se convierte en el foco de atención de todos los sicarios de la organización.",
+            "elenco": "Keanu Reeves, Halle Berry, Laurence Fishburne, Mark Dacascos, Asia Kate Dillon, Lance Reddick",
+            "imagen": "https://pics.filmaffinity.com/John_Wick_Cap_tulo_3_Parabellum-476207978-large.jpg",
+            "direccion": "Chad Stahelski",
+            "categoria":"Accion"
+        },
+        {
+            "id": 6,
+            "name": "Desastre en el vuelo US57",
+            "duracion": "89 minutos",
+            "año": 2018,
+            "resumen": "Un vuelo internacional sufre el ataque de fuerzas invisibles mientras sobrevuela el océano. Mientras tanto los tripulantes de la cabina como los pasajeros tratan de hacer lo posible por sobrevivir, descubren que las misteriosas fuerzas ocultas son en realidad espíritus de niñas asesinadas que intentan dar caza a un asesino en serio que viaja abordo del avión.",
+            "elenco": "Renée Willett; Paul Logan; Liz Fenning; Jose Rosete; Joseph Michael Harris; Jesse James D'Angelo; Justin Hoffmeister; Clarissa Thibeaux; Brendan Petrizzo; Greg Furman; Shamar Philippe; Elizabeth Harding; Seth Rakos; Matthew Riley; Sharon Desiree",
+            "imagen": "https://procinal.com/uploads/PELICULAS/Img_movies/Img_73x73/DESASTRE%20EN%20EL%20VUELO%20US57.jpg",
+            "direccion": "Rob Pallatina",
+            "categoria":"Terror"
+        },
+        {
+            "id": 7,
+            "name": "Shrek",
+            "duracion": "92 minutos",
+            "año": 2001,
+            "resumen": "Érase una vez un ogro verde llamado Shrek que vivía en un pantano muy lejano, feliz con sus baños de barro y su particular concepto de la higiene. Pero un buen día, su preciada soledad se ve interrumpida por la invasión de un grupo de molestos personajes salidos de cuentos clásicos.",
+            "elenco": "Mike Myers, Cameron Diaz, Eddie Murphy, John Lithgow, Vincent Cassel, Conrad Vernon",
+            "imagen": "https://es.web.img3.acsta.net/pictures/14/03/06/10/13/369709.jpg",
+            "direccion": "Andrew Adamson",
+            "categoria":"Infantil"
+        },
+        {
+            "id": 8,
+            "name": "Rapidos y Furiosos 5",
+            "duracion": "130 minutos",
+            "año": 2003,
+            "resumen": "el ex poli Brian O'Conner (Paul Walker) y el ex preso Dom Toretto (Vin Diesel) colaboran a pesar de proceder de lados opuestos de la ley. Desde que Brian y Mia Toretto (Jordana Brewster) sacaron a Dom de la cárcel, han tenido que cruzar muchas fronteras para evitar a la policía.",
+            "elenco": "Vin Diesel, Paul Walker †, Dwayne Johnson, Jordana Brewster, Tyrese Gibson",
+            "imagen": "https://mx.web.img3.acsta.net/pictures/19/10/12/02/35/4834850.jpg",
+            "direccion": "Justin Lin",
+            "categoria":"Accion"
+        },
+        {
+            "id": 9,
+            "name": "Titanic",
+            "duracion": "195 minutos",
+            "año": 1997,
+            "resumen": "La trama, una epopeya romántica,​​ relata la relación de Jack Dawson y Rose DeWitt Bukater, dos jóvenes que se conocen y se enamoran a bordo del transatlántico RMS Titanic en su viaje inaugural desde Southampton (Inglaterra) a Nueva York (EE. UU.) en abril de 1912.",
+            "elenco": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Gloria Stuart, Bill Paxton",
+            "imagen": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/86/91/41/19870073.jpg",
+            "direccion": "James Cameron",
+            "categoria":"Suspenso"
+        },
+        {
+            "id": 10,
+            "name": "Rio",
+            "duracion": "95 minutos",
+            "año": 2011,
+            "resumen": "Blu, un guacamayo domesticado que vive en Minnesota, debe volver a su Brasil natal para conocer a Perla, una bonita hembra, y evitar así la desaparición de su especie. Pero una vez en Río de Janeiro, los dos pájaros son secuestrados por unos contrabandistas de animales.",
+            "elenco": "Jesse Eisenberg como Blu, Anne Hathaway como Perla, George López como Rafael,  Jemaine Clement como Nigel, will.i.am como Pedro, Jamie Foxx como Nico, Tracy Morgan como Luis, Leslie Mann como Linda, Rodrigo Santoro como Túlio, Jake T. Austin como Fernando, Carlos Ponce como Marce",
+            "imagen": "https://es.web.img3.acsta.net/medias/nmedia/18/82/78/80/19696270.jpg",
+            "direccion": "Carlos Saldanha",
+            "categoria":"Infantil"
+        },
+        {
+            "id": 11,
+            "name": "Iron Man",
+            "duracion": "126 minutos",
+            "año": 2008,
+            "resumen": "La película cuenta la historia de Anthony Stark, un multimillonario industrial y genio inventor, que es secuestrado y obligado a construir un arma devastadora. En su lugar, utilizando su inteligencia e ingenio, Anthony construye una armadura de alta tecnología y escapa de su cautiverio",
+            "elenco": "Robert Downey Jr, Terrence Howar, Gwyneth Paltro, Shaun Tou, Paul Bettany",
+            "imagen": "https://es.web.img3.acsta.net/medias/nmedia/18/66/64/01/20168724.jpg",
+            "direccion": "Jon Favreau",
+            "categoria":"Super Heroes"
+        },
+        {
+            "id": 12,
+            "name": "Harry Potter y la piedra filosofal",
+            "duracion": "152 minutos",
+            "año": 2001,
+            "resumen": "Cuando Harry Potter cumple 11 años se entera que es huérfano, hijo de dos magos y que posee poderes mágicos. En la Escuela de Magia y Brujería de Hogwarts aprende a jugar el deporte de alturas, Quidditch y juega un emocionante juego de ajedrez, en vías a encarar al Mago Oscuro que está empeñado en destruirlo.",
+            "elenco": "Daniel Radcliff, Rupert Grin, Emma Watso, Robbie Coltran, Richard Harris",
+            "imagen": "https://es.web.img2.acsta.net/pictures/14/04/30/11/55/592219.jpg",
+            "direccion": "Chris Columbus",
+            "categoria":"Ciencia Ficcion"
+        },
+        {
+            "id": 13,
+            "name": "Annabelle",
+            "duracion": "98 minutos",
+            "año": 2014,
+            "resumen": "Ed y Lorraine Warren tratan de encerrar bajo llave a Annabelle, una muñeca poseída. Como demonólogos la colocaran en una vitrina bendecida como medida de seguridad, sin embargo, una noche terrorífica Annabelle despertará a otros espíritus malignos que se encuentran en la habitación y que tendrán una nueva fijación: la hija pequeña del matrimonio y sus amigos.",
+            "elenco": "Annabelle Wallis, Ward Horton, Alfre Woodard, Tony Amendola, Eric Ladin",
+            "imagen": "https://es.web.img2.acsta.net/pictures/17/10/02/09/53/5292732.jpg",
+            "direccion": "John R. Leonetti",
+            "categoria":"Terror"
+        },
+        {
+            "id": 14,
+            "name": "Terremoto: La falla de San Andrés",
+            "duracion": "114 minutos",
+            "año": 2015,
+            "resumen": "Cuando la tristemente célebre falla de San Andrés finalmente cede y provoca un terremoto de 9 grados en California, un piloto de helicóptero de búsqueda y rescate (Dwayne Johnson) y su ex mujer (Carla Gugino) vuelven juntos de Los Ángeles a San Francisco para salvar a su única hija.",
+            "elenco": "Dwayne Johnson, Carla Gugino, Alexandra Daddario, Ioan Gruffudd, Archie Panjabi, Paul Giamatti",
+            "imagen": "https://es.web.img3.acsta.net/pictures/15/05/05/11/56/026812.jpg",
+            "direccion": "Brad Peyton",
+            "categoria":"Suspenso"
+        }
+    ]
+}
