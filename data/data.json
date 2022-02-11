@@ -464,6 +464,105 @@
             "imagen": "https://pics.filmaffinity.com/El_juego_del_calamar_Serie_de_TV-405319363-mmed.jpg",
             "direccion": "Brad Peyton",
             "categoria":"Crimenes"
+        },
+        {
+            "id": 30,
+            "name": "Wonder Egg Priority",
+            "duracion": "83 minutos",
+            "año": 2020,
+            "resumen": "Bob Esponja y Patricio se embarcan en una aventura épica. Durante una misión heroica e hilarante para salvar a la mascota de Bob, el caracol Gary, descubren que nada es más fuerte que el poder de la amistad.",
+            "elenco": "Tom Kenny, Antonio Raul Corbo, Bill Fagerbakke, Jack Gore, Rodger Bumpass, Jason Maybaum, Clancy Brown",
+            "imagen": "https://es.web.img3.acsta.net/r_1280_720/pictures/20/12/30/12/09/4927238.jpg",
+            "direccion": "Tim Hill",
+            "categoria": "Proximamente"
+        },
+        {
+            "id": 31,
+            "name": "Yu gi oh",
+            "duracion": "136 minutos",
+            "año": 2012,
+            "resumen": "Como la mayoría de los adolescentes de su edad, Peter está intentando descubrir quién es y cómo ha llegado a ser lo que es. En su viaje para atar los cabos de su pasado, descubre un secreto familiar que finalmente dará forma a su destino como Spiderman.",
+            "elenco": "Andrew Garfield, Emma Stone, Rhys Ifans, Denis Leary, Campbell Scott, Irrfan Khan, Martin Sheen, Sally Field, Annie Parisse",
+            "imagen": "https://m.media-amazon.com/images/I/71AKojTTuRL._AC_SY606_.jpg",
+            "direccion": "Marc Webb",
+            "categoria": "Proximamente"
+        },
+        {
+            "id": 32,
+            "name": "Jojo's",
+            "duracion": "98 minutos",
+            "año": 2010,
+            "resumen": "Hipo, un vikingo adolescente, comienza las clases de entrenamiento con dragones, y ve por fin una oportunidad para demostrar que es capaz de convertirse en guerrero, cuando hace amistad con un dragón herido.",
+            "elenco": "Jay Baruchel, Gerard Butler, America Ferrera, Kristen Wiig, Jonah Hill",
+            "imagen": "https://m.media-amazon.com/images/I/81gR0G9tJdL._AC_SL1500_.jpg",
+            "direccion": "Chris Sanders",
+            "categoria":"Proximamente"
+        },
+        {
+            "id": 33,
+            "name": "Black clover",
+            "duracion": "131 minutos",
+            "año": 2019,
+            "resumen": "John Wick regresa de nuevo pero con una recompensa sobre su cabeza que persigue unos mercenarios. Tras asesinar a uno de los miembros de su gremio, Wick es expulsado y se convierte en el foco de atención de todos los sicarios de la organización.",
+            "elenco": "Keanu Reeves, Halle Berry, Laurence Fishburne, Mark Dacascos, Asia Kate Dillon, Lance Reddick",
+            "imagen": "https://m.media-amazon.com/images/I/71qIcNiCjTL._AC_SY741_.jpg",
+            "direccion": "Chad Stahelski",
+            "categoria":"Proximamente"
+        },
+        {
+            "id": 34,
+            "name": "Detective Conan",
+            "duracion": "89 minutos",
+            "año": 2018,
+            "resumen": "Un vuelo internacional sufre el ataque de fuerzas invisibles mientras sobrevuela el océano. Mientras tanto los tripulantes de la cabina como los pasajeros tratan de hacer lo posible por sobrevivir, descubren que las misteriosas fuerzas ocultas son en realidad espíritus de niñas asesinadas que intentan dar caza a un asesino en serio que viaja abordo del avión.",
+            "elenco": "Renée Willett; Paul Logan; Liz Fenning; Jose Rosete; Joseph Michael Harris; Jesse James D'Angelo; Justin Hoffmeister; Clarissa Thibeaux; Brendan Petrizzo; Greg Furman; Shamar Philippe; Elizabeth Harding; Seth Rakos; Matthew Riley; Sharon Desiree",
+            "imagen": "https://m.media-amazon.com/images/I/616D-2YH+iL._AC_.jpg",
+            "direccion": "Rob Pallatina",
+            "categoria":"Proximamente"
+        },
+        {
+            "id": 35,
+            "name": "Kimetsu no Yaiba",
+            "duracion": "92 minutos",
+            "año": 2001,
+            "resumen": "Érase una vez un ogro verde llamado Shrek que vivía en un pantano muy lejano, feliz con sus baños de barro y su particular concepto de la higiene. Pero un buen día, su preciada soledad se ve interrumpida por la invasión de un grupo de molestos personajes salidos de cuentos clásicos.",
+            "elenco": "Mike Myers, Cameron Diaz, Eddie Murphy, John Lithgow, Vincent Cassel, Conrad Vernon",
+            "imagen": "https://m.media-amazon.com/images/I/71QA1m0KGKL._AC_SY679_.jpg",
+            "direccion": "Andrew Adamson",
+            "categoria":"Proximamente"
+        },
+        {
+            "id": 36,
+            "name": "Boku no Hero Academia",
+            "duracion": "130 minutos",
+            "año": 2003,
+            "resumen": "el ex poli Brian O'Conner (Paul Walker) y el ex preso Dom Toretto (Vin Diesel) colaboran a pesar de proceder de lados opuestos de la ley. Desde que Brian y Mia Toretto (Jordana Brewster) sacaron a Dom de la cárcel, han tenido que cruzar muchas fronteras para evitar a la policía.",
+            "elenco": "Vin Diesel, Paul Walker †, Dwayne Johnson, Jordana Brewster, Tyrese Gibson",
+            "imagen": "https://m.media-amazon.com/images/I/71MNr+NsowL._AC_SY679_.jpg",
+            "direccion": "Justin Lin",
+            "categoria":"Proximamente"
+        },
+        {
+            "id": 37,
+            "name": "el increible castillo vagabundo",
+            "duracion": "195 minutos",
+            "año": 1997,
+            "resumen": "La trama, una epopeya romántica,​​ relata la relación de Jack Dawson y Rose DeWitt Bukater, dos jóvenes que se conocen y se enamoran a bordo del transatlántico RMS Titanic en su viaje inaugural desde Southampton (Inglaterra) a Nueva York (EE. UU.) en abril de 1912.",
+            "elenco": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Gloria Stuart, Bill Paxton",
+            "imagen": "https://m.media-amazon.com/images/I/51+FWnABEzL._AC_.jpg",
+            "direccion": "James Cameron",
+            "categoria":"Proximamente"
+        },
+        {
+            "id": 38,
+            "name": "Yakusoku no Neverland",
+            "duracion": "95 minutos",
+            "año": 2011,
+            "resumen": "Blu, un guacamayo domesticado que vive en Minnesota, debe volver a su Brasil natal para conocer a Perla, una bonita hembra, y evitar así la desaparición de su especie. Pero una vez en Río de Janeiro, los dos pájaros son secuestrados por unos contrabandistas de animales.",
+            "elenco": "Jesse Eisenberg como Blu, Anne Hathaway como Perla, George López como Rafael,  Jemaine Clement como Nigel, will.i.am como Pedro, Jamie Foxx como Nico, Tracy Morgan como Luis, Leslie Mann como Linda, Rodrigo Santoro como Túlio, Jake T. Austin como Fernando, Carlos Ponce como Marce",
+            "imagen": "https://m.media-amazon.com/images/I/71vM34h-5mL._AC_SX569_.jpg",
+            "direccion": "Carlos Saldanha",
+            "categoria":"Proximamente"
         }
     ]
 }
