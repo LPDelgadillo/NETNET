@@ -72,9 +72,11 @@ body{
     overflow: auto;
     gap: 15px;
     max-height: 300px;
+
 }
 .populares img{
     width: 175px;
+    cursor: pointer;
 }
 
 .populares::-webkit-scrollbar{
