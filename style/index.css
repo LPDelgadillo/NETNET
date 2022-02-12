@@ -12,7 +12,7 @@ body{
     background: -webkit-linear-gradient(#FF0021, #AA011A);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    margin: 30px;
+    margin: 40px;
     font-family: "Oswald";
     font-size: 50px;
 }

@@ -18,7 +18,7 @@ function pintarVideos(videos){
         const{name, id, imagen} = video;
 
         contVideos.innerHTML +=`
-            <img id="${id}" src="${imagen}" alt="${name}">
+            <img onclick="${id}" id="${id}" src="${imagen}" alt="${name}">
         `
     });
 }
@@ -70,7 +70,7 @@ function pintarVideos(videos){
 //     pintarVideos(design)
 // })
 
-// //Buscar
+//Buscar
 // document.getElementById('btnBusqueda').addEventListener('click', buscar)
 
 // async function buscar(){
@@ -82,12 +82,12 @@ function pintarVideos(videos){
 //     pintarVideos(result)
 // }
 
-// // Ver Videos
-// async function verVideo(id){
-//     const data = await getVideos();
-//     const result = data.filter((video)=> video.id === id)
+// Ver Videos
+async function verVideo(id){
+    const data = await getVideos();
+    const result = data.filter((video)=> video.id === id)
     
-//     localStorage.setItem('video', JSON.stringify(result))
+    localStorage.setItem('video', JSON.stringify(result))
 
-//     window.location.href = '../video.html'
-// }
+    window.location.href = '../pelicula.html'
+}

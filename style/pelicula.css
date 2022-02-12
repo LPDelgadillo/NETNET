@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Poppins:wght@300;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+}
+header{
+    margin: 30px 40px;
+}
+
+header img{
+    height: 45px;
+}
+.seleccionImg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.informacion h3 span{
+    color: #71D074;
+}
+
+.seleccionImg img {
+    width: 65%;
+}
+.nombrePelicula{
+    margin-top: 1.5%;
+    display: flex;
+    justify-content: center;
+}
+.informacion{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+    gap: 30px;
+}
+.R{
+    background-color: #2B2B2B;
+    border: none;
+    color: white;
+    padding: 5px;
+}
+.calidad{
+    background-color: black;
+    color: white;
+}
+.cont-info{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.btnsPeli{
+    width: 565px;
+    height: 35px;
+}
+.btnDescargar{
+    background-color: #2B2B2B;
+}
+.resum{
+    margin: 30px 130px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.resum h5{
+    color: #575454;
+}
+.btnsGustos{
+    display: flex;
+    justify-content: space-around;
+}
+.btnPersonalizacion{
+    padding: 3px;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 17px;
+    
+}
