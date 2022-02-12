@@ -155,7 +155,7 @@
             "categoria":"Suspenso"
         },
         {
-            "id":"15",
+            "id": 15,
             "name": "Naruto",
             "duracion": "138 minutos",
             "año": 2003,
@@ -166,7 +166,7 @@
             "categoria": "Animes"
         },
 {
-            "id":"16",
+            "id": 16,
             "name": "Pokemon",
             "duracion": "138 minutos",
             "año": 2003,
@@ -177,7 +177,7 @@
             "categoria": "Animes"
         },
 {
-            "id":"17",
+            "id": 17,
             "name": "Caballeros del Zodiaco",
             "duracion": "138 minutos",
             "año": 2003,
@@ -188,7 +188,7 @@
             "categoria": "Animes"
         },
 {
-            "id":"18",
+            "id": 18,
             "name": "One Piece",
             "duracion": "138 minutos",
             "año": 2003,
@@ -199,7 +199,7 @@
             "categoria": "Animes"
         },
 {
-            "id":"19",
+            "id": 19,
             "name": "The seven deadly sins",
             "duracion": "138 minutos",
             "año": 2003,
@@ -210,7 +210,7 @@
             "categoria": "Animes"
         },
 {
-            "id":"20",
+            "id": 20,
             "name": "one punch man",
             "duracion": "138 minutos",
             "año": 2003,
@@ -221,7 +221,7 @@
             "categoria": "Animes"
         },
 {
-            "id":"21",
+            "id": 21,
             "name": "Death note",
             "duracion": "138 minutos",
             "año": 2003,
@@ -232,7 +232,7 @@
             "categoria": "Animes"
         },
 {
-            "id":"22",
+            "id": 22,
             "name": "Bleach",
             "duracion": "138 minutos",
             "año": 2003,
@@ -243,7 +243,7 @@
             "categoria": "Animes"
         },
 {
-            "id":"23",
+            "id": 23,
             "name": "Super Campeones",
             "duracion": "138 minutos",
             "año": 2003,
@@ -254,7 +254,7 @@
             "categoria": "Animes"
         },
 {
-            "id":"24",
+            "id": 24,
             "name": "Fullmetal Alchemist",
             "duracion": "138 minutos",
             "año": 2003,
@@ -265,7 +265,7 @@
             "categoria": "Animes"
         },
 {
-            "id":"25",
+            "id": 25,
             "name": "Shingeki no Kyojin",
             "duracion": "138 minutos",
             "año": 2003,
@@ -276,7 +276,7 @@
             "categoria": "Animes"
         },
 {
-            "id":"26",
+            "id": 26,
             "name": "Tokyo Revengers",
             "duracion": "138 minutos",
             "año": 2003,
@@ -288,7 +288,7 @@
         },
 
 {
-            "id":"27",
+            "id": 27,
             "name": "Bakuten!!",
             "duracion": "138 minutos",
             "año": 2003,
@@ -301,7 +301,7 @@
 
 
 	{
-            "id":"28",
+            "id": 28,
             "name": "Gokushufudou",
             "duracion": "138 minutos",
             "año": 2003,

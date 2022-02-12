@@ -91,6 +91,11 @@ body{
     display: flex;
     overflow: auto;
     gap: 15px;
+    max-height: 300px;
+}
+.seriesAnime img{
+    width: 175px;
+    cursor: pointer;
 }
 .seriesAnime::-webkit-scrollbar{
     width: 0;
@@ -103,6 +108,7 @@ body{
     display: flex;
     overflow: auto;
     gap: 15px;
+    max-height: 300px;
 }
 .seriesCrimenes::-webkit-scrollbar{
     width: 0;
