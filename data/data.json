@@ -9,7 +9,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://www.ecartelera.com/carteles/5200/5270/001_m.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Ciencia Ficcion"
+            "categoria": "Ciencia Ficcion",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 2,
@@ -20,7 +21,8 @@
             "elenco": "Tom Kenny, Antonio Raul Corbo, Bill Fagerbakke, Jack Gore, Rodger Bumpass, Jason Maybaum, Clancy Brown",
             "imagen": "https://es.web.img2.acsta.net/c_310_420/pictures/19/11/13/16/57/1990423.jpg",
             "direccion": "Tim Hill",
-            "categoria": "Infantil"
+            "categoria": "Infantil",
+            "coincidencia":"95% de coincidencia"
         },
         {
             "id": 3,
@@ -31,7 +33,8 @@
             "elenco": "Andrew Garfield, Emma Stone, Rhys Ifans, Denis Leary, Campbell Scott, Irrfan Khan, Martin Sheen, Sally Field, Annie Parisse",
             "imagen": "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/4417/4417_173x256.jpg",
             "direccion": "Marc Webb",
-            "categoria": "Super Heroes"
+            "categoria": "Super Heroes",
+            "coincidencia":"97% de coincidencia"
         },
         {
             "id": 4,
@@ -42,7 +45,8 @@
             "elenco": "Jay Baruchel, Gerard Butler, America Ferrera, Kristen Wiig, Jonah Hill",
             "imagen": "http://www.kubelika.com/images/carteles/1000/1093-1-como-entrenar-a-tu-dragon-300.jpg",
             "direccion": "Chris Sanders",
-            "categoria":"Infantil"
+            "categoria":"Infantil",
+            "coincidencia":"93% de coincidencia"
         },
         {
             "id": 5,
@@ -53,7 +57,8 @@
             "elenco": "Keanu Reeves, Halle Berry, Laurence Fishburne, Mark Dacascos, Asia Kate Dillon, Lance Reddick",
             "imagen": "https://pics.filmaffinity.com/John_Wick_Cap_tulo_3_Parabellum-476207978-large.jpg",
             "direccion": "Chad Stahelski",
-            "categoria":"Accion"
+            "categoria":"Accion",
+            "coincidencia":"96% de coincidencia"
         },
         {
             "id": 6,
@@ -64,7 +69,8 @@
             "elenco": "Renée Willett; Paul Logan; Liz Fenning; Jose Rosete; Joseph Michael Harris; Jesse James D'Angelo; Justin Hoffmeister; Clarissa Thibeaux; Brendan Petrizzo; Greg Furman; Shamar Philippe; Elizabeth Harding; Seth Rakos; Matthew Riley; Sharon Desiree",
             "imagen": "https://procinal.com/uploads/PELICULAS/Img_movies/Img_73x73/DESASTRE%20EN%20EL%20VUELO%20US57.jpg",
             "direccion": "Rob Pallatina",
-            "categoria":"Terror"
+            "categoria":"Terror",
+            "coincidencia":"92% de coincidencia"
         },
         {
             "id": 7,
@@ -75,7 +81,8 @@
             "elenco": "Mike Myers, Cameron Diaz, Eddie Murphy, John Lithgow, Vincent Cassel, Conrad Vernon",
             "imagen": "https://es.web.img3.acsta.net/pictures/14/03/06/10/13/369709.jpg",
             "direccion": "Andrew Adamson",
-            "categoria":"Infantil"
+            "categoria":"Infantil",
+            "coincidencia":"91% de coincidencia"
         },
         {
             "id": 8,
@@ -86,7 +93,8 @@
             "elenco": "Vin Diesel, Paul Walker †, Dwayne Johnson, Jordana Brewster, Tyrese Gibson",
             "imagen": "https://mx.web.img3.acsta.net/pictures/19/10/12/02/35/4834850.jpg",
             "direccion": "Justin Lin",
-            "categoria":"Accion"
+            "categoria":"Accion",
+            "coincidencia":"90% de coincidencia"
         },
         {
             "id": 9,
@@ -97,7 +105,8 @@
             "elenco": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Gloria Stuart, Bill Paxton",
             "imagen": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/86/91/41/19870073.jpg",
             "direccion": "James Cameron",
-            "categoria":"Suspenso"
+            "categoria":"Suspenso",
+            "coincidencia":"89% de coincidencia"
         },
         {
             "id": 10,
@@ -108,7 +117,8 @@
             "elenco": "Jesse Eisenberg como Blu, Anne Hathaway como Perla, George López como Rafael,  Jemaine Clement como Nigel, will.i.am como Pedro, Jamie Foxx como Nico, Tracy Morgan como Luis, Leslie Mann como Linda, Rodrigo Santoro como Túlio, Jake T. Austin como Fernando, Carlos Ponce como Marce",
             "imagen": "https://es.web.img3.acsta.net/medias/nmedia/18/82/78/80/19696270.jpg",
             "direccion": "Carlos Saldanha",
-            "categoria":"Infantil"
+            "categoria":"Infantil",
+            "coincidencia":"76% de coincidencia"
         },
         {
             "id": 11,
@@ -119,7 +129,8 @@
             "elenco": "Robert Downey Jr, Terrence Howar, Gwyneth Paltro, Shaun Tou, Paul Bettany",
             "imagen": "https://es.web.img3.acsta.net/medias/nmedia/18/66/64/01/20168724.jpg",
             "direccion": "Jon Favreau",
-            "categoria":"Super Heroes"
+            "categoria":"Super Heroes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 12,
@@ -130,7 +141,8 @@
             "elenco": "Daniel Radcliff, Rupert Grin, Emma Watso, Robbie Coltran, Richard Harris",
             "imagen": "https://es.web.img2.acsta.net/pictures/14/04/30/11/55/592219.jpg",
             "direccion": "Chris Columbus",
-            "categoria":"Ciencia Ficcion"
+            "categoria":"Ciencia Ficcion",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 13,
@@ -141,7 +153,8 @@
             "elenco": "Annabelle Wallis, Ward Horton, Alfre Woodard, Tony Amendola, Eric Ladin",
             "imagen": "https://es.web.img2.acsta.net/pictures/17/10/02/09/53/5292732.jpg",
             "direccion": "John R. Leonetti",
-            "categoria":"Terror"
+            "categoria":"Terror",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 14,
@@ -152,7 +165,8 @@
             "elenco": "Dwayne Johnson, Carla Gugino, Alexandra Daddario, Ioan Gruffudd, Archie Panjabi, Paul Giamatti",
             "imagen": "https://es.web.img3.acsta.net/pictures/15/05/05/11/56/026812.jpg",
             "direccion": "Brad Peyton",
-            "categoria":"Suspenso"
+            "categoria":"Suspenso",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 15,
@@ -163,7 +177,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/941/707/products/poster-11-6d58b47af6c8f045e216091863456696-1024-1024.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Animes"
+            "categoria": "Animes",
+            "coincidencia":"99% de coincidencia"
         },
 {
             "id": 16,
@@ -174,7 +189,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://i.pinimg.com/originals/67/bc/36/67bc36fe4a5ad62a59b03059b58f57a1.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Animes"
+            "categoria": "Animes",
+            "coincidencia":"99% de coincidencia"
         },
 {
             "id": 17,
@@ -185,7 +201,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://i.pinimg.com/736x/be/79/4f/be794fe8d7a605df2f6706801f3dd1f8.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Animes"
+            "categoria": "Animes",
+            "coincidencia":"99% de coincidencia"
         },
 {
             "id": 18,
@@ -196,7 +213,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://pics.filmaffinity.com/wan_pisu_one_piece_tv_series-830418147-large.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Animes"
+            "categoria": "Animes",
+            "coincidencia":"99% de coincidencia"
         },
 {
             "id": 19,
@@ -207,7 +225,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://picfiles.alphacoders.com/429/thumb-429024.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Animes"
+            "categoria": "Animes",
+            "coincidencia":"99% de coincidencia"
         },
 {
             "id": 20,
@@ -218,7 +237,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://m.media-amazon.com/images/I/71oeGc311SL._AC_SY679_.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Animes"
+            "categoria": "Animes",
+            "coincidencia":"99% de coincidencia"
         },
 {
             "id": 21,
@@ -229,7 +249,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://www.dhresource.com/f2/albu/g21/M01/DF/29/rBVaq2EBOv-AVZTQAAXgWWf8m3081.jpeg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Animes"
+            "categoria": "Animes",
+            "coincidencia":"99% de coincidencia"
         },
 {
             "id": 22,
@@ -240,7 +261,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://m.media-amazon.com/images/I/81mz9U2edwL._AC_SX466_.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Animes"
+            "categoria": "Animes",
+            "coincidencia":"99% de coincidencia"
         },
 {
             "id": 23,
@@ -251,7 +273,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://www.themoviedb.org/t/p/original/ylTQ8kWL2Ln5aS4W7r8ajFB5kcp.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Animes"
+            "categoria": "Animes",
+            "coincidencia":"99% de coincidencia"
         },
 {
             "id": 24,
@@ -262,7 +285,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://m.media-amazon.com/images/I/81XhW3AFcCL._AC_SY741_.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Animes"
+            "categoria": "Animes",
+            "coincidencia":"99% de coincidencia"
         },
 {
             "id": 25,
@@ -273,7 +297,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://m.media-amazon.com/images/I/71OO2PMqFsL._AC_SY741_.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Animes"
+            "categoria": "Animes",
+            "coincidencia":"99% de coincidencia"
         },
 {
             "id": 26,
@@ -284,7 +309,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://m.media-amazon.com/images/I/71Hjl+XJJMS._AC_SL1500_.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Animes"
+            "categoria": "Animes",
+            "coincidencia":"99% de coincidencia"
         },
 
 {
@@ -296,7 +322,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://http2.mlstatic.com/D_NQ_NP_968210-MLM46608023045_072021-O.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Animes"
+            "categoria": "Animes",
+            "coincidencia":"99% de coincidencia"
         },
 
 
@@ -309,7 +336,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://universo-nintendo.com.mx/my_uploads/2021/03/Gokushufudou-Poster-2.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Animes"
+            "categoria": "Animes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 29,
@@ -320,7 +348,8 @@
             "elenco": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Monica Bellucci, Randall Duk Kim, Jada Pinkett Smith",
             "imagen": "https://m.media-amazon.com/images/I/510tOIPylAL._AC_.jpg",
             "direccion": "Hermanas Wachowski",
-            "categoria": "Crimenes"
+            "categoria": "Crimenes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 30,
@@ -331,7 +360,8 @@
             "elenco": "Tom Kenny, Antonio Raul Corbo, Bill Fagerbakke, Jack Gore, Rodger Bumpass, Jason Maybaum, Clancy Brown",
             "imagen": "https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/31102.jpg",
             "direccion": "Tim Hill",
-            "categoria": "Crimenes"
+            "categoria": "Crimenes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 31,
@@ -342,7 +372,8 @@
             "elenco": "Andrew Garfield, Emma Stone, Rhys Ifans, Denis Leary, Campbell Scott, Irrfan Khan, Martin Sheen, Sally Field, Annie Parisse",
             "imagen": "https://pics.filmaffinity.com/El_Chapo_Serie_de_TV-922750652-large.jpg",
             "direccion": "Marc Webb",
-            "categoria": "Crimenes"
+            "categoria": "Crimenes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 32,
@@ -353,7 +384,8 @@
             "elenco": "Jay Baruchel, Gerard Butler, America Ferrera, Kristen Wiig, Jonah Hill",
             "imagen": "https://img.ecartelera.com/noticias/fotos/33400/33455/1.jpg",
             "direccion": "Chris Sanders",
-            "categoria":"Crimenes"
+            "categoria":"Crimenes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 33,
@@ -364,7 +396,8 @@
             "elenco": "Keanu Reeves, Halle Berry, Laurence Fishburne, Mark Dacascos, Asia Kate Dillon, Lance Reddick",
             "imagen": "https://www.hola.com/imagenes/actualidad/20200312162977/personaje-infiltrado-casa-papel-gt/0-797-491/casa-z.jpg",
             "direccion": "Chad Stahelski",
-            "categoria":"Crimenes"
+            "categoria":"Crimenes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 34,
@@ -375,7 +408,8 @@
             "elenco": "Renée Willett; Paul Logan; Liz Fenning; Jose Rosete; Joseph Michael Harris; Jesse James D'Angelo; Justin Hoffmeister; Clarissa Thibeaux; Brendan Petrizzo; Greg Furman; Shamar Philippe; Elizabeth Harding; Seth Rakos; Matthew Riley; Sharon Desiree",
             "imagen": "https://m.media-amazon.com/images/I/61Op6RSeJvL._AC_SX425_.jpg",
             "direccion": "Rob Pallatina",
-            "categoria":"Crimenes"
+            "categoria":"Crimenes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 35,
@@ -386,7 +420,8 @@
             "elenco": "Mike Myers, Cameron Diaz, Eddie Murphy, John Lithgow, Vincent Cassel, Conrad Vernon",
             "imagen": "https://i.ebayimg.com/images/g/fSMAAOSwwPRb8HpG/s-l300.jpg",
             "direccion": "Andrew Adamson",
-            "categoria":"Crimenes"
+            "categoria":"Crimenes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 36,
@@ -397,7 +432,8 @@
             "elenco": "Vin Diesel, Paul Walker †, Dwayne Johnson, Jordana Brewster, Tyrese Gibson",
             "imagen": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-witcher-imagenes-y-poster-1562002627.jpeg",
             "direccion": "Justin Lin",
-            "categoria":"Crimenes"
+            "categoria":"Crimenes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 37,
@@ -408,7 +444,8 @@
             "elenco": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Gloria Stuart, Bill Paxton",
             "imagen": "https://i.pinimg.com/originals/15/64/ed/1564ed980882bd86de01ad7f0b8dde3e.jpg",
             "direccion": "James Cameron",
-            "categoria":"Crimenes"
+            "categoria":"Crimenes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 38,
@@ -419,7 +456,8 @@
             "elenco": "Jesse Eisenberg como Blu, Anne Hathaway como Perla, George López como Rafael,  Jemaine Clement como Nigel, will.i.am como Pedro, Jamie Foxx como Nico, Tracy Morgan como Luis, Leslie Mann como Linda, Rodrigo Santoro como Túlio, Jake T. Austin como Fernando, Carlos Ponce como Marce",
             "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/YDXWZIOMMFGIPOUWA6STSLF5QY.jpg",
             "direccion": "Carlos Saldanha",
-            "categoria":"Crimenes"
+            "categoria":"Crimenes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 39,
@@ -430,7 +468,8 @@
             "elenco": "Robert Downey Jr, Terrence Howar, Gwyneth Paltro, Shaun Tou, Paul Bettany",
             "imagen": "https://m.media-amazon.com/images/I/51KFqw9JWHL._AC_.jpg",
             "direccion": "Jon Favreau",
-            "categoria":"Crimenes"
+            "categoria":"Crimenes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 40,
@@ -441,7 +480,8 @@
             "elenco": "Daniel Radcliff, Rupert Grin, Emma Watso, Robbie Coltran, Richard Harris",
             "imagen": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/6088/9781608872190.jpg",
             "direccion": "Chris Columbus",
-            "categoria":"Crimenes"
+            "categoria":"Crimenes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 41,
@@ -452,7 +492,8 @@
             "elenco": "Annabelle Wallis, Ward Horton, Alfre Woodard, Tony Amendola, Eric Ladin",
             "imagen": "https://m.media-amazon.com/images/I/91G5xnoFOqL._AC_SY606_.jpg",
             "direccion": "John R. Leonetti",
-            "categoria":"Crimenes"
+            "categoria":"Crimenes",
+            "coincidencia":"99% de coincidencia"
         },
         {
             "id": 42,
@@ -463,10 +504,11 @@
             "elenco": "Dwayne Johnson, Carla Gugino, Alexandra Daddario, Ioan Gruffudd, Archie Panjabi, Paul Giamatti",
             "imagen": "https://pics.filmaffinity.com/El_juego_del_calamar_Serie_de_TV-405319363-mmed.jpg",
             "direccion": "Brad Peyton",
-            "categoria":"Crimenes"
+            "categoria":"Crimenes",
+            "coincidencia":"99% de coincidencia"
         },
         {
-            "id": 30,
+            "id": 43,
             "name": "Wonder Egg Priority",
             "duracion": "83 minutos",
             "año": 2020,
@@ -474,10 +516,11 @@
             "elenco": "Tom Kenny, Antonio Raul Corbo, Bill Fagerbakke, Jack Gore, Rodger Bumpass, Jason Maybaum, Clancy Brown",
             "imagen": "https://es.web.img3.acsta.net/r_1280_720/pictures/20/12/30/12/09/4927238.jpg",
             "direccion": "Tim Hill",
-            "categoria": "Proximamente"
+            "categoria": "Proximamente",
+            "coincidencia":"99% de coincidencia"
         },
         {
-            "id": 31,
+            "id": 44,
             "name": "Yu gi oh",
             "duracion": "136 minutos",
             "año": 2012,
@@ -485,10 +528,11 @@
             "elenco": "Andrew Garfield, Emma Stone, Rhys Ifans, Denis Leary, Campbell Scott, Irrfan Khan, Martin Sheen, Sally Field, Annie Parisse",
             "imagen": "https://m.media-amazon.com/images/I/71AKojTTuRL._AC_SY606_.jpg",
             "direccion": "Marc Webb",
-            "categoria": "Proximamente"
+            "categoria": "Proximamente",
+            "coincidencia":"99% de coincidencia"
         },
         {
-            "id": 32,
+            "id": 45,
             "name": "Jojo's",
             "duracion": "98 minutos",
             "año": 2010,
@@ -496,10 +540,11 @@
             "elenco": "Jay Baruchel, Gerard Butler, America Ferrera, Kristen Wiig, Jonah Hill",
             "imagen": "https://m.media-amazon.com/images/I/81gR0G9tJdL._AC_SL1500_.jpg",
             "direccion": "Chris Sanders",
-            "categoria":"Proximamente"
+            "categoria":"Proximamente",
+            "coincidencia":"99% de coincidencia"
         },
         {
-            "id": 33,
+            "id": 46,
             "name": "Black clover",
             "duracion": "131 minutos",
             "año": 2019,
@@ -507,10 +552,11 @@
             "elenco": "Keanu Reeves, Halle Berry, Laurence Fishburne, Mark Dacascos, Asia Kate Dillon, Lance Reddick",
             "imagen": "https://m.media-amazon.com/images/I/71qIcNiCjTL._AC_SY741_.jpg",
             "direccion": "Chad Stahelski",
-            "categoria":"Proximamente"
+            "categoria":"Proximamente",
+            "coincidencia":"99% de coincidencia"
         },
         {
-            "id": 34,
+            "id": 47,
             "name": "Detective Conan",
             "duracion": "89 minutos",
             "año": 2018,
@@ -518,10 +564,11 @@
             "elenco": "Renée Willett; Paul Logan; Liz Fenning; Jose Rosete; Joseph Michael Harris; Jesse James D'Angelo; Justin Hoffmeister; Clarissa Thibeaux; Brendan Petrizzo; Greg Furman; Shamar Philippe; Elizabeth Harding; Seth Rakos; Matthew Riley; Sharon Desiree",
             "imagen": "https://m.media-amazon.com/images/I/616D-2YH+iL._AC_.jpg",
             "direccion": "Rob Pallatina",
-            "categoria":"Proximamente"
+            "categoria":"Proximamente",
+            "coincidencia":"99% de coincidencia"
         },
         {
-            "id": 35,
+            "id": 48,
             "name": "Kimetsu no Yaiba",
             "duracion": "92 minutos",
             "año": 2001,
@@ -529,10 +576,11 @@
             "elenco": "Mike Myers, Cameron Diaz, Eddie Murphy, John Lithgow, Vincent Cassel, Conrad Vernon",
             "imagen": "https://m.media-amazon.com/images/I/71QA1m0KGKL._AC_SY679_.jpg",
             "direccion": "Andrew Adamson",
-            "categoria":"Proximamente"
+            "categoria":"Proximamente",
+            "coincidencia":"99% de coincidencia"
         },
         {
-            "id": 36,
+            "id": 49,
             "name": "Boku no Hero Academia",
             "duracion": "130 minutos",
             "año": 2003,
@@ -540,10 +588,11 @@
             "elenco": "Vin Diesel, Paul Walker †, Dwayne Johnson, Jordana Brewster, Tyrese Gibson",
             "imagen": "https://m.media-amazon.com/images/I/71MNr+NsowL._AC_SY679_.jpg",
             "direccion": "Justin Lin",
-            "categoria":"Proximamente"
+            "categoria":"Proximamente",
+            "coincidencia":"99% de coincidencia"
         },
         {
-            "id": 37,
+            "id": 50,
             "name": "el increible castillo vagabundo",
             "duracion": "195 minutos",
             "año": 1997,
@@ -551,10 +600,11 @@
             "elenco": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Gloria Stuart, Bill Paxton",
             "imagen": "https://m.media-amazon.com/images/I/51+FWnABEzL._AC_.jpg",
             "direccion": "James Cameron",
-            "categoria":"Proximamente"
+            "categoria":"Proximamente",
+            "coincidencia":"99% de coincidencia"
         },
         {
-            "id": 38,
+            "id": 51,
             "name": "Yakusoku no Neverland",
             "duracion": "95 minutos",
             "año": 2011,
@@ -562,7 +612,8 @@
             "elenco": "Jesse Eisenberg como Blu, Anne Hathaway como Perla, George López como Rafael,  Jemaine Clement como Nigel, will.i.am como Pedro, Jamie Foxx como Nico, Tracy Morgan como Luis, Leslie Mann como Linda, Rodrigo Santoro como Túlio, Jake T. Austin como Fernando, Carlos Ponce como Marce",
             "imagen": "https://m.media-amazon.com/images/I/71vM34h-5mL._AC_SX569_.jpg",
             "direccion": "Carlos Saldanha",
-            "categoria":"Proximamente"
+            "categoria":"Proximamente",
+            "coincidencia":"99% de coincidencia"
         }
     ]
 }
