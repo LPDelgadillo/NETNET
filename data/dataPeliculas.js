@@ -192,7 +192,7 @@ export const apiPeliculas = [
         "coincidencia":"99% de coincidencia"
     },
 {
-        "id":"17",
+        "id":17,
         "name": "Caballeros del Zodiaco",
         "duracion": "138 minutos",
         "año": 2003,
@@ -204,7 +204,7 @@ export const apiPeliculas = [
         "coincidencia":"63% de coincidencia"
     },
 {
-        "id":"18",
+        "id":18,
         "name": "One Piece",
         "duracion": "138 minutos",
         "año": 2003,
@@ -216,7 +216,7 @@ export const apiPeliculas = [
         "coincidencia":"36% de coincidencia"
     },
 {
-        "id":"19",
+        "id":19,
         "name": "The seven deadly sins",
         "duracion": "138 minutos",
         "año": 2003,
@@ -228,7 +228,7 @@ export const apiPeliculas = [
         "coincidencia":"49% de coincidencia"
     },
 {
-        "id":"20",
+        "id":20,
         "name": "one punch man",
         "duracion": "138 minutos",
         "año": 2003,
@@ -240,7 +240,7 @@ export const apiPeliculas = [
         "coincidencia":"48% de coincidencia"
     },
 {
-        "id":"21",
+        "id":21,
         "name": "Death note",
         "duracion": "138 minutos",
         "año": 2003,
@@ -252,7 +252,7 @@ export const apiPeliculas = [
         "coincidencia":"99% de coincidencia"
     },
 {
-        "id":"22",
+        "id":22,
         "name": "Bleach",
         "duracion": "138 minutos",
         "año": 2003,
@@ -264,7 +264,7 @@ export const apiPeliculas = [
         "coincidencia":"23% de coincidencia"
     },
 {
-        "id":"23",
+        "id":23,
         "name": "Super Campeones",
         "duracion": "138 minutos",
         "año": 2003,
@@ -276,7 +276,7 @@ export const apiPeliculas = [
         "coincidencia":"99% de coincidencia"
     },
 {
-        "id":"24",
+        "id":24,
         "name": "Fullmetal Alchemist",
         "duracion": "138 minutos",
         "año": 2003,
@@ -288,7 +288,7 @@ export const apiPeliculas = [
         "coincidencia":"21% de coincidencia"
     },
 {
-        "id":"25",
+        "id":25,
         "name": "Shingeki no Kyojin",
         "duracion": "138 minutos",
         "año": 2003,
@@ -300,7 +300,7 @@ export const apiPeliculas = [
         "coincidencia":"99% de coincidencia"
     },
 {
-        "id":"26",
+        "id":26,
         "name": "Tokyo Revengers",
         "duracion": "138 minutos",
         "año": 2003,
@@ -313,7 +313,7 @@ export const apiPeliculas = [
     },
 
 {
-        "id":"27",
+        "id":27,
         "name": "Bakuten!!",
         "duracion": "138 minutos",
         "año": 2003,
@@ -327,7 +327,7 @@ export const apiPeliculas = [
 
 
 {
-        "id":"28",
+        "id":28,
         "name": "Gokushufudou",
         "duracion": "138 minutos",
         "año": 2003,
@@ -507,7 +507,7 @@ export const apiPeliculas = [
         "coincidencia":"95% de coincidencia"
     },
     {
-        "id": 30,
+        "id": 43,
         "name": "Wonder Egg Priority",
         "duracion": "83 minutos",
         "año": 2020,
@@ -519,7 +519,7 @@ export const apiPeliculas = [
         "coincidencia":"69% de coincidencia"
     },
     {
-        "id": 31,
+        "id": 44,
         "name": "Yu gi oh",
         "duracion": "136 minutos",
         "año": 2012,
@@ -531,7 +531,7 @@ export const apiPeliculas = [
         "coincidencia":"99% de coincidencia"
     },
     {
-        "id": 32,
+        "id": 45,
         "name": "Jojo's",
         "duracion": "98 minutos",
         "año": 2010,
@@ -543,7 +543,7 @@ export const apiPeliculas = [
         "coincidencia":"79% de coincidencia"
     },
     {
-        "id": 33,
+        "id": 46,
         "name": "Black clover",
         "duracion": "131 minutos",
         "año": 2019,
@@ -555,7 +555,7 @@ export const apiPeliculas = [
         "coincidencia":"99% de coincidencia"
     },
     {
-        "id": 34,
+        "id": 47,
         "name": "Detective Conan",
         "duracion": "89 minutos",
         "año": 2018,
@@ -567,7 +567,7 @@ export const apiPeliculas = [
         "coincidencia":"89% de coincidencia"
     },
     {
-        "id": 35,
+        "id": 48,
         "name": "Kimetsu no Yaiba",
         "duracion": "92 minutos",
         "año": 2001,
@@ -579,7 +579,7 @@ export const apiPeliculas = [
         "coincidencia":"91% de coincidencia"
     },
     {
-        "id": 36,
+        "id": 49,
         "name": "Boku no Hero Academia",
         "duracion": "130 minutos",
         "año": 2003,
@@ -591,7 +591,7 @@ export const apiPeliculas = [
         "coincidencia":"99% de coincidencia"
     },
     {
-        "id": 37,
+        "id": 50,
         "name": "el increible castillo vagabundo",
         "duracion": "195 minutos",
         "año": 1997,
@@ -603,7 +603,7 @@ export const apiPeliculas = [
         "coincidencia":"97% de coincidencia"
     },
     {
-        "id": 38,
+        "id": 51,
         "name": "Yakusoku no Neverland",
         "duracion": "95 minutos",
         "año": 2011,

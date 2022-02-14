@@ -1,29 +1,16 @@
-import {apiPeliculas} from "./data.js"
+import { apiPeliculas } from "../data/dataPeliculas.js";
+const populares = document.getElementById("populares");
 
-const contVideos = document.getElementById("populares");
-
-function mostrarPeliculas(Peliculas) {
-
-    contVideos.innerHTML = ``
+const mostrarPeliculas=(Peliculas) =>{
+    populares.innerHTML = ``
 
     Peliculas.forEach(element => {
-
-
-        const { imagen, id, name } = element;
-
-        const mostarDiv = document.createElement("img");
-
+        const {imagen, id, name } = element;
+        const mostrarDiv = document.createElement("img");
         mostrarDiv.innerHTML = `
-        <img onclick="${id}" id="${id}" src="${imagen}" alt="${name}">
-
+        <img id="${id}" src="${imagen}" alt="${name}">
          `
-
-        main.appendChild(mostarDiv)
-
-        if (document.getElementsByClassName('img') == onclick) {
-            console.log(imagen)
-        }
+        populares.appendChild(mostrarDiv)
     });
-
 }
 mostrarPeliculas(apiPeliculas);

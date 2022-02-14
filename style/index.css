@@ -110,6 +110,10 @@ body{
     gap: 15px;
     max-height: 300px;
 }
+.seriesCrimenes img{
+    width: 175px;
+    cursor: pointer;
+}
 .seriesCrimenes::-webkit-scrollbar{
     width: 0;
 }

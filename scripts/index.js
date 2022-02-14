@@ -33,16 +33,13 @@ pintarVideos()
 //-----------------------------------------------------------------------------------------//
 const seriesAnime = document.getElementById('seriesAnime');
 
-
-// Funcion mostrar videos
-async function mostrarAnimes(data) {
-    if(data == undefined){
-        data = await getVideos()
-    }
+async function mostrarAnimes() {
+    const data = await getVideos();
+    const result = data.filter((anime)=> anime.categoria === "Animes")
 
     seriesAnime.innerHTML = '';
 
-    data.forEach((video)=> {
+    result.forEach((video)=> {
         const { id, name, imagen } = video;
 
         seriesAnime.innerHTML +=`
@@ -56,9 +53,9 @@ mostrarAnimes()
 //--------------------------------------------------------------------------------------------------//
 const seriesCrimenes = document.getElementById('seriesCrimenes');
 
-async function mostrarCrimenes(categoria) {
+async function mostrarCrimenes() {
     const data = await getVideos();
-    const result = data.filter((crimen)=> crimen.categoria === Crimenes)
+    const result = data.filter((crimen)=> crimen.categoria === "Crimenes")
 
     seriesCrimenes.innerHTML = '';
 
@@ -74,7 +71,6 @@ async function mostrarCrimenes(categoria) {
 mostrarCrimenes()
 //--------------------------------------------------------------------------------------------------------------//
 
-// Ver Videos
 async function verVideo(id){
     const data = await getVideos();
     const result = data.filter((video)=> video.id === id)
